@@ -102,6 +102,60 @@ CREATE TABLE melachim2 (LIKE book_template INCLUDING DEFAULTS);
 
 CREATE TABLE yeshayahu (LIKE book_template INCLUDING DEFAULTS);
 
+CREATE TABLE yirmiyahu (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE yehezkel (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE hoshea (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE yoel (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE amos (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE ovadia (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE yonah (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE michah (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE nahum (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE habakuk (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE sephania (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE hagai (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE zecharia (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE malachi (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE divrehayamim1 (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE divrehayamim2 (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE tehillim (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE mishle (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE iyov (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE shirhashirim (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE ruth (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE eichah (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE kohelet (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE esther (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE daniel (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE ezra (LIKE book_template INCLUDING DEFAULTS);
+
+CREATE TABLE nehemyah (LIKE book_template INCLUDING DEFAULTS);
+
 COMMIT;
 
 BEGIN;
