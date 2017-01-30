@@ -2,7 +2,7 @@ BEGIN;
 
 INSERT INTO part (part_id, name) VALUES (1, 'neviim rishonim');
 INSERT INTO part (part_id, name) VALUES (2, 'neviim aharonim');
-INSERT INTO part (part_id, name) VALUES (3, 'tere asar');
+INSERT INTO part (part_id, name) VALUES (3, 'tere assar');
 INSERT INTO part (part_id, name) VALUES (4, 'ketuvim');
 
 COMMIT;
