@@ -91,12 +91,12 @@ CREATE TABLE reader (
 );
 
 CREATE TABLE book_teacher (
-  book_id INT NOT NULL PRIMARY KEY,
+  book_id INT NOT NULL,
   teacher_id INT NOT NULL
 );
 
 CREATE TABLE book_reader (
-  book_id INT NOT NULL PRIMARY KEY,
+  book_id INT NOT NULL,
   reader_id INT NOT NULL
 );
 
