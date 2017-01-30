@@ -1,3 +1,6 @@
+# Let's start by setting up the schema file:
+psql -d tstest -f ./ts_schema.sql
+
 # First we have to seed the db with the regular general seeds
 psql -d tstest -f ./1_ts_seeds.sql
 # Then we create the teacher records
@@ -16,3 +19,6 @@ psql -d tstest -f ./6_na_seeds.sql
 psql -d tstest -f ./7_ta_seeds.sql
 # And Finally Ketuvim
 psql -d tstest -f ./8_kt_seeds.sql
+
+# Lastly, we can seed our db with the youtube video seeds
+psql -d tstest -f ./video_seeds.sql
