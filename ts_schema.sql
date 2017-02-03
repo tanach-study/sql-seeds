@@ -78,7 +78,8 @@ CREATE TABLE teacher (
   mname VARCHAR(10),
   lname VARCHAR(20) NOT NULL,
   short_bio TEXT,
-  long_bio TEXT
+  long_bio TEXT,
+  image_url TEXT
 );
 
 CREATE TABLE reader (

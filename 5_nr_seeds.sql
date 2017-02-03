@@ -1,5 +1,6 @@
 BEGIN;
 
+INSERT INTO yehoshua (perek_id, teacher_id, reader_id, part_id) VALUES (0, 1001, 2001, 1);
 INSERT INTO yehoshua (perek_id, teacher_id, reader_id, part_id) VALUES (1, 1001, 2001, 1);
 INSERT INTO yehoshua (perek_id, teacher_id, reader_id, part_id) VALUES (2, 1001, 2001, 1);
 INSERT INTO yehoshua (perek_id, teacher_id, reader_id, part_id) VALUES (3, 1001, 2001, 1);
@@ -55,8 +56,9 @@ COMMIT;
 
 BEGIN;
 
+INSERT INTO shemuel1 (perek_id, teacher_id, reader_id, part_id) VALUES (0, 1003, 2001, 1);
 INSERT INTO shemuel1 (perek_id, teacher_id, reader_id, part_id) VALUES (1, 1003, 2001, 1);
-INSERT INTO shemuel1 (perek_id, teacher_id, reader_id, part_id) VALUES (2, 1003, 2001, 1);
+INSERT INTO shemuel1 (perek_id, teacher_id, reader_id, part_id, is_many_parts, parts_breakdown) VALUES (2, 1003, 2001, 1, true, 'a,b');
 INSERT INTO shemuel1 (perek_id, teacher_id, reader_id, part_id) VALUES (3, 1003, 2001, 1);
 INSERT INTO shemuel1 (perek_id, teacher_id, reader_id, part_id) VALUES (4, 1003, 2001, 1);
 INSERT INTO shemuel1 (perek_id, teacher_id, reader_id, part_id) VALUES (5, 1003, 2001, 1);

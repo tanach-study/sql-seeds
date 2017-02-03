@@ -192,7 +192,7 @@ INSERT INTO tehillim (perek_id, teacher_id, reader_id, part_id) VALUES (115, 102
 INSERT INTO tehillim (perek_id, teacher_id, reader_id, part_id) VALUES (116, 1020, 2001, 4);
 INSERT INTO tehillim (perek_id, teacher_id, reader_id, part_id) VALUES (117, 1020, 2001, 4);
 INSERT INTO tehillim (perek_id, teacher_id, reader_id, part_id) VALUES (118, 1020, 2001, 4);
-INSERT INTO tehillim (perek_id, teacher_id, reader_id, part_id) VALUES (119, 1021, 2001, 4);
+INSERT INTO tehillim (perek_id, teacher_id, reader_id, part_id, is_many_parts, parts_breakdown) VALUES (119, 1021, 2001, 4, true, 'a,b,c,d');
 INSERT INTO tehillim (perek_id, teacher_id, reader_id, part_id) VALUES (120, 1021, 2001, 4);
 INSERT INTO tehillim (perek_id, teacher_id, reader_id, part_id) VALUES (121, 1021, 2001, 4);
 INSERT INTO tehillim (perek_id, teacher_id, reader_id, part_id) VALUES (122, 1021, 2001, 4);
