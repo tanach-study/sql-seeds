@@ -434,61 +434,61 @@ INSERT INTO teacher (
   'http://cdn.tanachstudy.com/assets/images/Dr_Yehudi_Felman.jpg'
 );
 
-INSERT INTO teacher (
-  teacher_id,
-  title,
-  fname,
-  lname,
-  short_bio,
-  long_bio,
-  image_url
-) VALUES (
-  1025,
-  'Rabbi',
-  'Joseph',
-  'Dweck',
-  'Senior Rabbi in Spanish and Portuguese Jews'' Congregations of the UK',
-  'Rabbi Joseph Dweck is the Senior Rabbi of the S&P Sephardi Community of the United Kingdom. He also studied psychology and philosophy at Santa Monica College in California and received a Bachelor of Arts degree in Liberal Studies. He received his Semikha from Rabbi Ovadia Yosef under the auspices of the Sephardic Rabbinical College of Brooklyn, New York. Rabbi Dweck served as rabbi of Congregation Shaare Shalom, in Brooklyn, New York from 1999 to 2014. Rabbi Dweck also served as Head of School of Barkai Yeshivah in Brooklyn from 2010 to 2014. He received training as a hazzan by Rabbi Rephael Elnadav z”l and Moshe Habusha. Currently, Rabbi Dweck resides in London with his wife, Margalit, and five children.',
-  'http://cdn.tanachstudy.com/assets/images/Rabbi_Joseph_Dweck.jpg'
-);
+-- INSERT INTO teacher (
+--   teacher_id,
+--   title,
+--   fname,
+--   lname,
+--   short_bio,
+--   long_bio,
+--   image_url
+-- ) VALUES (
+--   1025,
+--   'Rabbi',
+--   'Joseph',
+--   'Dweck',
+--   'Senior Rabbi in Spanish and Portuguese Jews'' Congregations of the UK',
+--   'Rabbi Joseph Dweck is the Senior Rabbi of the S&P Sephardi Community of the United Kingdom. He also studied psychology and philosophy at Santa Monica College in California and received a Bachelor of Arts degree in Liberal Studies. He received his Semikha from Rabbi Ovadia Yosef under the auspices of the Sephardic Rabbinical College of Brooklyn, New York. Rabbi Dweck served as rabbi of Congregation Shaare Shalom, in Brooklyn, New York from 1999 to 2014. Rabbi Dweck also served as Head of School of Barkai Yeshivah in Brooklyn from 2010 to 2014. He received training as a hazzan by Rabbi Rephael Elnadav z”l and Moshe Habusha. Currently, Rabbi Dweck resides in London with his wife, Margalit, and five children.',
+--   'http://cdn.tanachstudy.com/assets/images/Rabbi_Joseph_Dweck.jpg'
+-- );
 
-INSERT INTO teacher (
-  teacher_id,
-  title,
-  fname,
-  mname,
-  lname,
-  short_bio,
-  long_bio,
-  image_url
-) VALUES (
-  1026,
-  'Mr.',
-  'David',
-  'A.',
-  'Cohen',
-  'CPA',
-  'David is a member of the Hochmah Umussar and Sha''are Shalom Bateh Knesset. David is broadly interested in all aspects of Torah learning, but especially in the history of our traditions. David is married to Rebecca Cohen, a science teacher at James Madison HS and community Kallah teacher, and has four children across Yeshivat Barkai and Prospect Park Yeshivah. In his day job, David is an investment analyst for Soapstone Capital.',
-  'http://cdn.tanachstudy.com/assets/images/Mr_David_Cohen.jpg'
-);
+-- INSERT INTO teacher (
+--   teacher_id,
+--   title,
+--   fname,
+--   mname,
+--   lname,
+--   short_bio,
+--   long_bio,
+--   image_url
+-- ) VALUES (
+--   1026,
+--   'Mr.',
+--   'David',
+--   'A.',
+--   'Cohen',
+--   'CPA',
+--   'David is a member of the Hochmah Umussar and Sha''are Shalom Bateh Knesset. David is broadly interested in all aspects of Torah learning, but especially in the history of our traditions. David is married to Rebecca Cohen, a science teacher at James Madison HS and community Kallah teacher, and has four children across Yeshivat Barkai and Prospect Park Yeshivah. In his day job, David is an investment analyst for Soapstone Capital.',
+--   'http://cdn.tanachstudy.com/assets/images/Mr_David_Cohen.jpg'
+-- );
 
-INSERT INTO teacher (
-  teacher_id,
-  title,
-  fname,
-  lname,
-  short_bio,
-  long_bio,
-  image_url
-) VALUES (
-  1027,
-  'Rabbi',
-  'Richard',
-  'Tobias',
-  'Rabbi at Magen David Yeshiva',
-  'Rabbi Richard Tobias earned a BA psychology from Yeshiva University. Rabbinic ordination from the Sephardic Rabbinical College under the auspices of former chief rabbi of large, Ovadia Yosef. He earned a masters degree in educational leadership from Columbia University. Dean, Magen David Yeshiva High School. Assistant Rabbi, Congregation Beth Torah. Father of four, which is the hardest job of all.',
-  'http://cdn.tanachstudy.com/assets/images/Rabbi_Richard_Tobias.jpg'
-);
+-- INSERT INTO teacher (
+--   teacher_id,
+--   title,
+--   fname,
+--   lname,
+--   short_bio,
+--   long_bio,
+--   image_url
+-- ) VALUES (
+--   1027,
+--   'Rabbi',
+--   'Richard',
+--   'Tobias',
+--   'Rabbi at Magen David Yeshiva',
+--   'Rabbi Richard Tobias earned a BA psychology from Yeshiva University. Rabbinic ordination from the Sephardic Rabbinical College under the auspices of former chief rabbi of large, Ovadia Yosef. He earned a masters degree in educational leadership from Columbia University. Dean, Magen David Yeshiva High School. Assistant Rabbi, Congregation Beth Torah. Father of four, which is the hardest job of all.',
+--   'http://cdn.tanachstudy.com/assets/images/Rabbi_Richard_Tobias.jpg'
+-- );
 
 INSERT INTO teacher (
   teacher_id,
@@ -508,40 +508,40 @@ INSERT INTO teacher (
   'http://cdn.tanachstudy.com/assets/images/Mrs_Gitta_Neufeld.jpg'
 );
 
-INSERT INTO teacher (
-  teacher_id,
-  title,
-  fname,
-  lname,
-  short_bio,
-  long_bio,
-  image_url
-) VALUES (
-  1029,
-  'Rabbi',
-  'Avraham',
-  'Benhamu',
-  'Assistant Rabbi at Cong. Shaare Shalom, Rabbi at Yeshivah of Flatbush',
-  'Rabbi Avraham Benhamu was born in London and raised in Bogota, Colombia. He  studied in Israel at Yeshivat Birkat Moshe in Maale Adumim. Rabbi Benhamu graduated from Yeshiva University and then received Semicha from its affiliated Rabbi Isaac Elhanan Theological Seminary (RIETS). He then went on to receive his Master’s degree in Jewish History from the Graduate School for Jewish Studies (GSJS) at Touro College. Rabbi Benhamu has been a Judaic studies teacher in Yeshiva of Flatbush Middle Division for 21 years. He is currently the Chairman of Judaic Studies and Curriculum at the Yeshiva. Rabbi Benhamu runs Bnai Shaare Shalom Young Adult Minyan which hosts many exciting events throughout the year. He and his wife Margaret have five children.',
-  'http://cdn.tanachstudy.com/assets/images/Rabbi_Avraham_Benhamu.jpg'
-);
+-- INSERT INTO teacher (
+--   teacher_id,
+--   title,
+--   fname,
+--   lname,
+--   short_bio,
+--   long_bio,
+--   image_url
+-- ) VALUES (
+--   1029,
+--   'Rabbi',
+--   'Avraham',
+--   'Benhamu',
+--   'Assistant Rabbi at Cong. Shaare Shalom, Rabbi at Yeshivah of Flatbush',
+--   'Rabbi Avraham Benhamu was born in London and raised in Bogota, Colombia. He  studied in Israel at Yeshivat Birkat Moshe in Maale Adumim. Rabbi Benhamu graduated from Yeshiva University and then received Semicha from its affiliated Rabbi Isaac Elhanan Theological Seminary (RIETS). He then went on to receive his Master’s degree in Jewish History from the Graduate School for Jewish Studies (GSJS) at Touro College. Rabbi Benhamu has been a Judaic studies teacher in Yeshiva of Flatbush Middle Division for 21 years. He is currently the Chairman of Judaic Studies and Curriculum at the Yeshiva. Rabbi Benhamu runs Bnai Shaare Shalom Young Adult Minyan which hosts many exciting events throughout the year. He and his wife Margaret have five children.',
+--   'http://cdn.tanachstudy.com/assets/images/Rabbi_Avraham_Benhamu.jpg'
+-- );
 
-INSERT INTO teacher (
-  teacher_id,
-  title,
-  fname,
-  lname,
-  short_bio,
-  long_bio,
-  image_url
-) VALUES (
-  1030,
-  'Mr.',
-  'Norman',
-  'Didia',
-  'Teacher at Allegra Franco Teachers Seminary',
-  'Norman is a member of the Avenue N Sephardic Congregation and businessman.  Educated at Yeshiva University and Touro College, he currently teaches the mechanisms of Tanachic Hebrew and grammar at the Allegra Franco School of Educational Leadership since its inception.  His focus is to convey the logic and science inherent in Hebrew, and how this impacts the understanding of Biblical texts and Biblical exegesis.  With his wife, Randi, they have raised their children to be active and productive community members, and three of their children currently teach at Yeshiva of Flatbush and Barkai Yeshiva.',
-  'http://cdn.tanachstudy.com/assets/images/Mr_Norman_Didia.jpg'
-);
+-- INSERT INTO teacher (
+--   teacher_id,
+--   title,
+--   fname,
+--   lname,
+--   short_bio,
+--   long_bio,
+--   image_url
+-- ) VALUES (
+--   1030,
+--   'Mr.',
+--   'Norman',
+--   'Didia',
+--   'Teacher at Allegra Franco Teachers Seminary',
+--   'Norman is a member of the Avenue N Sephardic Congregation and businessman.  Educated at Yeshiva University and Touro College, he currently teaches the mechanisms of Tanachic Hebrew and grammar at the Allegra Franco School of Educational Leadership since its inception.  His focus is to convey the logic and science inherent in Hebrew, and how this impacts the understanding of Biblical texts and Biblical exegesis.  With his wife, Randi, they have raised their children to be active and productive community members, and three of their children currently teach at Yeshiva of Flatbush and Barkai Yeshiva.',
+--   'http://cdn.tanachstudy.com/assets/images/Mr_Norman_Didia.jpg'
+-- );
 
 COMMIT;
