@@ -62,10 +62,10 @@ CREATE TABLE book (
   part_id INT NOT NULL,
   prettyEng VARCHAR(30) NOT NULL,
   prev_book_id INT,
-  prev_book_name VARCHAR(30) NOT NULL,
+  prev_book_name VARCHAR(30),
   prev_book_num_chapters INT,
   next_book_id INT,
-  next_book_name VARCHAR(30) NOT NULL,
+  next_book_name VARCHAR(30),
   next_book_num_chapters INT
 );
 

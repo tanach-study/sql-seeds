@@ -33,7 +33,7 @@ INSERT INTO book (book_id, name, numChapters, part_id, prettyEng, prev_book_id, 
 INSERT INTO book (book_id, name, numChapters, part_id, prettyEng, prev_book_id, prev_book_name, prev_book_num_chapters, next_book_id, next_book_name, next_book_num_chapters) VALUES (31, 'esther', 10, 4, 'Esther', 30, 'kohelet', 12, 32, 'daniel', 12);
 INSERT INTO book (book_id, name, numChapters, part_id, prettyEng, prev_book_id, prev_book_name, prev_book_num_chapters, next_book_id, next_book_name, next_book_num_chapters) VALUES (32, 'daniel', 12, 4, 'Daniel', 31, 'esther', 10, 33, 'ezra', 10);
 INSERT INTO book (book_id, name, numChapters, part_id, prettyEng, prev_book_id, prev_book_name, prev_book_num_chapters, next_book_id, next_book_name, next_book_num_chapters) VALUES (33, 'ezra', 10, 4, 'Ezra', 32, 'daniel', 12, 34, 'nehemya', 13);
-INSERT INTO book (book_id, name, numChapters, part_id, prettyEng, prev_book_id, prev_book_name, prev_book_num_chapters, next_book_id, next_book_name, next_book_num_chapters) VALUES (34, 'nehemyah', 13, 4, 'Nehemya', 33, 10, 'ezra', null, null, null);
+INSERT INTO book (book_id, name, numChapters, part_id, prettyEng, prev_book_id, prev_book_name, prev_book_num_chapters, next_book_id, next_book_name, next_book_num_chapters) VALUES (34, 'nehemyah', 13, 4, 'Nehemya', 33, 'ezra', 10, null, null, null);
 
 COMMIT;
 
