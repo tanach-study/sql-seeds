@@ -59,7 +59,8 @@ CREATE TABLE book (
   book_id INT NOT NULL PRIMARY KEY,
   name VARCHAR(30) NOT NULL,
   numChapters INT,
-  part_id INT NOT NULL
+  part_id INT NOT NULL,
+  prettyEng VARCHAR(30) NOT NULL
 );
 
 CREATE TABLE book_template (

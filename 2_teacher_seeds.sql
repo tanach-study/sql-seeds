@@ -431,7 +431,7 @@ INSERT INTO teacher (
   'Felman',
   '',
   '',
-  'http://cdn.tanachstudy.com/assets/images/Dr_Yehudi_Felman'
+  'http://cdn.tanachstudy.com/assets/images/Dr_Yehudi_Felman.jpg'
 );
 
 INSERT INTO teacher (
