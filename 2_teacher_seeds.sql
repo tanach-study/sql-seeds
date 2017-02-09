@@ -141,8 +141,8 @@ INSERT INTO teacher (
   'Mr.',
   'Ovadia',
   'Sutton',
-  '',
-  '',
+  'Teacher and Administrator at Yeshivat Moreshet Yerushalayim',
+  'Ovadia Sutton studied at Yehsivat Birkat Moshe in Maale Adumim for two years where he had the opportunity to learn under some of the finest Tanach scholars. He received a BA in mathematics from Baruch College and studied part time in the Sephardic Rabbinical College. He now works at Yeshivat Moreshet Yerushalayim in Israel.',
   'http://cdn.tanachstudy.com/assets/images/Mr_Ovadia_Sutton.jpg'
 );
 
@@ -159,7 +159,7 @@ INSERT INTO teacher (
   'Mr.',
   'Josh',
   'Setton',
-  '',
+  'Student at the Sephardic Rabbinical College',
   'Josh attended Yeshivah of Flatbush elementary and high school, and went on to learn at ישיבת ברכת משה in מעלה אדומים. He then studied at the Sephardic Rabbinical College and CUNY''s Macaulay Honors College. Josh currently works in the biotechnology industry.',
   'http://cdn.tanachstudy.com/assets/images/Mr_Josh_Setton.jpg'
 );
@@ -304,7 +304,7 @@ INSERT INTO teacher (
   'Aura',
   'Sutton',
   'Judaic Studies Teacher Emeritus in MDY',
-  '',
+  'Aura Sutton has been teaching Judaic Studies in the community for over 20 years. (She worked in various educational institutions, including Barkai Yeshiva & Allegra Franco School of Leadership.) She currently teaches at Magen David Yeshiva HS. Aura earned a BA in both Philosophy & Judaic Studies at Brooklyn College and an MA in Jewish Education & Leadership at Gratz College.',
   'http://cdn.tanachstudy.com/assets/images/Mrs_Aura_Sutton.jpg'
 );
 
@@ -376,7 +376,7 @@ INSERT INTO teacher (
   'David',
   'Tawil',
   'Rabbi at Barkai Yeshivah',
-  '',
+  'Rabbi David Tawil is a graduate of MDY elementary and high school. He spent a year at Yeshivat Torat Shraga in Israel, and then in Brooklyn College where he received a BA in  psychology. He received semicha from the Sephardic Rabbinical College and is currently a teacher at Barkai Yeshivah and assistant rabbi at Congregation Shaare Shalom.',
   'http://cdn.tanachstudy.com/assets/images/Rabbi_David_Tawil.jpg'
 );
 
@@ -393,7 +393,7 @@ INSERT INTO teacher (
   'Mr.',
   'Michael',
   'Franco',
-  '',
+  'Student at the Sephardic Rabbinical College and Medical Student at B.A.M.D. in Brooklyn College',
   'Michael Franco is a simple layman who has a deep passion for tanakh. He was awarded Valedictorian of Magen David Yeshiva Elementary School and Yeshivah of Flatbush High School. Michael attended Brooklyn College''s 7-year Medical Program, B.A.-M.D., and hopes to pursue a career in medicine. With God''s help, Michael aspires to teach Tanakh some time in the future.',
   'http://cdn.tanachstudy.com/assets/images/Mr_Michael_Franco.jpg'
 );
@@ -411,7 +411,7 @@ INSERT INTO teacher (
   'Mrs.',
   'Shani',
   'Taragin',
-  '',
+  'Ram Tanakh in Midreshet Lindenbaum and Teacher at Matan',
   'Shani Taragin is a lecturer at Matan. She has a B.A. and M.A. in Tanakh and Talmud from Bar Ilan University and she is currently pursuing her Ph.D. in Tanakh. Shani teaches Tanakh and Jewish Law at Matan and serves as a Ram Tanakh in Midreshet Lindenbaum. She also teaches at Migdal Oz, Shalavim for Women, Lander’s College and the Women’s Beit Midrash in Efrat and Ramat Shilo. Shani is a Yoetzet Halakha (Halakhic Advisor) and she serves on the local religious council dealing with issues of Jewish law and education.',
   'http://cdn.tanachstudy.com/assets/images/Mrs_Shani_Taragin.jpg'
 );
@@ -429,8 +429,8 @@ INSERT INTO teacher (
   'Dr.',
   'Yehudi',
   'Felman',
-  '',
-  '',
+  'Full Time Torah Student and Dermatologist',
+  'Dr. Yehudi Felman attended BTA, Yeshiva College, and graduated from YU’s Albert Einstein College of Medicine. Following an internship at Mount Sinai Hospital he completed his residency in dermatology at Columbia-Presbyterian in New York. Yehudi also received an MA and M. Phil in Hebrew Literature from Columbia University Graduate School and was appointed Assistant Professor of Hebrew at YU in 1970, teaching Tanakh and Ancient and Medieval Hebrew literature in the Erna Michael School of Jewish Studies and at Stern College from 1970 to 1976. He served as Director of the Bureau STI (sexually transmitted infections) Control for the New York City Health Department from 1976-1985. From 1967 until 2009 he was Clinical Professor of Dermatology at Downstate and in his own private practice of dermatology and STI. Yehudi retired in 2008 in order to learn Torah full time.',
   'http://cdn.tanachstudy.com/assets/images/Dr_Yehudi_Felman.jpg'
 );
 

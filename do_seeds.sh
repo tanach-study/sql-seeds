@@ -1,3 +1,5 @@
+# Before we begin, we want to back up the database into a dump file:
+
 # Let's start by setting up the schema file:
 psql -d tstest -f ./ts_schema.sql
 
