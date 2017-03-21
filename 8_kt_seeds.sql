@@ -229,7 +229,7 @@ COMMIT;
 
 BEGIN;
 
-INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (1, 1023, 4);
+INSERT INTO mishle (perek_id, teacher_id, part_id, is_many_parts, parts_breakdown) VALUES (1, 1023, 4, true, 'a,b');
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (2, 1023, 4);
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (3, 1023, 4);
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (4, 1023, 4);
@@ -238,28 +238,28 @@ INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (6, 1023, 4);
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (7, 1023, 4);
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (8, 1023, 4);
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (9, 1023, 4);
-INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (10, 1023, 4);
+INSERT INTO mishle (perek_id, teacher_id, part_id, is_many_parts, parts_breakdown) VALUES (10, 1023, 4, true, 'a,b');
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (11, 1023, 4);
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (12, 1024, 4);
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (13, 1024, 4);
-INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (14, 1024, 4);
+INSERT INTO mishle (perek_id, teacher_id, part_id, is_many_parts, parts_breakdown) VALUES (14, 1024, 4, true, 'a,b');
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (15, 1024, 4);
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (16, 1024, 4);
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (17, 1024, 4);
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (18, 1024, 4);
-INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (19, 1024, 4);
+INSERT INTO mishle (perek_id, teacher_id, part_id, is_many_parts, parts_breakdown) VALUES (19, 1024, 4, true, 'a,b');
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (20, 1024, 4);
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (21, 1024, 4);
-INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (22, 1024, 4);
+INSERT INTO mishle (perek_id, teacher_id, part_id, is_many_parts, parts_breakdown) VALUES (22, 1024, 4, true, 'a,b');
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (23, 1024, 4);
-INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (24, 1024, 4);
+INSERT INTO mishle (perek_id, teacher_id, part_id, is_many_parts, parts_breakdown) VALUES (24, 1024, 4, true, 'a,b');
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (25, 1024, 4);
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (26, 1024, 4);
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (27, 1024, 4);
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (28, 1024, 4);
 INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (29, 1024, 4);
-INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (30, 1024, 4);
-INSERT INTO mishle (perek_id, teacher_id, part_id) VALUES (31, 1024, 4);
+INSERT INTO mishle (perek_id, teacher_id, part_id, is_many_parts, parts_breakdown) VALUES (30, 1024, 4, true, 'a,b');
+INSERT INTO mishle (perek_id, teacher_id, part_id, is_many_parts, parts_breakdown) VALUES (31, 1024, 4, true, 'a,b');
 
 COMMIT;
 
@@ -307,5 +307,19 @@ INSERT INTO iyov (perek_id, teacher_id, part_id) VALUES (39, 1015, 4);
 INSERT INTO iyov (perek_id, teacher_id, part_id) VALUES (40, 1015, 4);
 INSERT INTO iyov (perek_id, teacher_id, part_id) VALUES (41, 1015, 4);
 INSERT INTO iyov (perek_id, teacher_id, part_id) VALUES (42, 1015, 4);
+
+COMMIT;
+
+BEGIN;
+
+INSERT INTO shirhashirim (perek_id, teacher_id, part_id) VALUES (0, 1001, 4);
+INSERT INTO shirhashirim (perek_id, teacher_id, part_id, is_many_parts, parts_breakdown) VALUES (1, 1001, 4, true, 'a,b');
+INSERT INTO shirhashirim (perek_id, teacher_id, part_id) VALUES (2, 1001, 4);
+INSERT INTO shirhashirim (perek_id, teacher_id, part_id) VALUES (3, 1001, 4);
+INSERT INTO shirhashirim (perek_id, teacher_id, part_id) VALUES (4, 1001, 4);
+INSERT INTO shirhashirim (perek_id, teacher_id, part_id) VALUES (5, 1001, 4);
+INSERT INTO shirhashirim (perek_id, teacher_id, part_id) VALUES (6, 1001, 4);
+INSERT INTO shirhashirim (perek_id, teacher_id, part_id) VALUES (7, 1001, 4);
+INSERT INTO shirhashirim (perek_id, teacher_id, part_id) VALUES (8, 1001, 4);
 
 COMMIT;
