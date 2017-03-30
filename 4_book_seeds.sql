@@ -74,6 +74,7 @@ INSERT INTO book_teacher (book_id, teacher_id) VALUES (25, 1023);
 INSERT INTO book_teacher (book_id, teacher_id) VALUES (25, 1024);
 INSERT INTO book_teacher (book_id, teacher_id) VALUES (26, 1015);
 INSERT INTO book_teacher (book_id, teacher_id) VALUES (27, 1001);
+INSERT INTO book_teacher (book_id, teacher_id) VALUES (28, 1025);
 INSERT INTO book_reader (book_id, reader_id) VALUES (1, 2001);
 INSERT INTO book_reader (book_id, reader_id) VALUES (2, 2001);
 INSERT INTO book_reader (book_id, reader_id) VALUES (3, 2001);

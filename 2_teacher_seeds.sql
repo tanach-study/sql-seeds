@@ -434,23 +434,23 @@ INSERT INTO teacher (
   'http://cdn.tanachstudy.com/assets/images/Dr_Yehudi_Felman.jpg'
 );
 
--- INSERT INTO teacher (
---   teacher_id,
---   title,
---   fname,
---   lname,
---   short_bio,
---   long_bio,
---   image_url
--- ) VALUES (
---   1025,
---   'Rabbi',
---   'Joseph',
---   'Dweck',
---   'Senior Rabbi in Spanish and Portuguese Jews'' Congregations of the UK',
---   'Rabbi Joseph Dweck is the Senior Rabbi of the S&P Sephardi Community of the United Kingdom. He also studied psychology and philosophy at Santa Monica College in California and received a Bachelor of Arts degree in Liberal Studies. He received his Semikha from Rabbi Ovadia Yosef under the auspices of the Sephardic Rabbinical College of Brooklyn, New York. Rabbi Dweck served as rabbi of Congregation Shaare Shalom, in Brooklyn, New York from 1999 to 2014. Rabbi Dweck also served as Head of School of Barkai Yeshivah in Brooklyn from 2010 to 2014. He received training as a hazzan by Rabbi Rephael Elnadav z”l and Moshe Habusha. Currently, Rabbi Dweck resides in London with his wife, Margalit, and five children.',
---   'http://cdn.tanachstudy.com/assets/images/Rabbi_Joseph_Dweck.jpg'
--- );
+INSERT INTO teacher (
+  teacher_id,
+  title,
+  fname,
+  lname,
+  short_bio,
+  long_bio,
+  image_url
+) VALUES (
+  1025,
+  'Rabbi',
+  'Nathan',
+  'Zaboulani',
+  'Rabbi at Barkai Yeshiva and Student at the Sephardic Rabbinical College',
+  'Nathan studied in ישיבת ברכת משה in מעלה אדומים and Yeshiva University. He currently studies at the Sephardic Rabbinical College while teaching part time at Barkai Yeshivah and serving as the youth Rabbi at Kol Israel Congregation.',
+  'http://cdn.tanachstudy.com/assets/images/Rabbi_Nathan_Zaboulani.jpg'
+);
 
 -- INSERT INTO teacher (
 --   teacher_id,

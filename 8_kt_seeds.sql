@@ -323,3 +323,13 @@ INSERT INTO shirhashirim (perek_id, teacher_id, part_id) VALUES (7, 1001, 4);
 INSERT INTO shirhashirim (perek_id, teacher_id, part_id) VALUES (8, 1001, 4);
 
 COMMIT;
+
+BEGIN;
+
+INSERT INTO ruth (perek_id, teacher_id, part_id) VALUES (0, 1025, 4);
+INSERT INTO ruth (perek_id, teacher_id, part_id) VALUES (1, 1025, 4);
+INSERT INTO ruth (perek_id, teacher_id, part_id) VALUES (2, 1025, 4);
+INSERT INTO ruth (perek_id, teacher_id, part_id) VALUES (3, 1025, 4);
+INSERT INTO ruth (perek_id, teacher_id, part_id) VALUES (4, 1025, 4);
+
+COMMIT;
