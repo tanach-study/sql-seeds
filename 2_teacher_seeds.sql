@@ -452,25 +452,25 @@ INSERT INTO teacher (
   'http://cdn.tanachstudy.com/assets/images/Rabbi_Nathan_Zaboulani.jpg'
 );
 
--- INSERT INTO teacher (
---   teacher_id,
---   title,
---   fname,
---   mname,
---   lname,
---   short_bio,
---   long_bio,
---   image_url
--- ) VALUES (
---   1026,
---   'Mr.',
---   'David',
---   'A.',
---   'Cohen',
---   'CPA',
---   'David is a member of the Hochmah Umussar and Sha''are Shalom Bateh Knesset. David is broadly interested in all aspects of Torah learning, but especially in the history of our traditions. David is married to Rebecca Cohen, a science teacher at James Madison HS and community Kallah teacher, and has four children across Yeshivat Barkai and Prospect Park Yeshivah. In his day job, David is an investment analyst for Soapstone Capital.',
---   'http://cdn.tanachstudy.com/assets/images/Mr_David_Cohen.jpg'
--- );
+INSERT INTO teacher (
+  teacher_id,
+  title,
+  fname,
+  mname,
+  lname,
+  short_bio,
+  long_bio,
+  image_url
+) VALUES (
+  1026,
+  'Mr.',
+  'David',
+  'A.',
+  'Cohen',
+  'CPA',
+  'David is a member of the Hochmah Umussar and Sha''are Shalom Bateh Knesset. David is broadly interested in all aspects of Torah learning, but especially in the history of our traditions. David is married to Rebecca Cohen, a science teacher at James Madison HS and community Kallah teacher, and has four children across Yeshivat Barkai and Prospect Park Yeshivah. In his day job, David is an investment analyst for Soapstone Capital.',
+  'http://cdn.tanachstudy.com/assets/images/Mr_David_Cohen.jpg'
+);
 
 -- INSERT INTO teacher (
 --   teacher_id,
