@@ -349,7 +349,7 @@ BEGIN;
 
 INSERT INTO kohelet (perek_id, teacher_id, part_id) VALUES (0, 1026, 4);
 INSERT INTO kohelet (perek_id, teacher_id, part_id) VALUES (1, 1026, 4);
-INSERT INTO kohelet (perek_id, teacher_id, part_id) VALUES (2, 1026, 4);
+INSERT INTO kohelet (perek_id, teacher_id, part_id, is_many_parts, parts_breakdown) VALUES (2, 1026, 4, true, 'a,b');
 INSERT INTO kohelet (perek_id, teacher_id, part_id) VALUES (3, 1026, 4);
 INSERT INTO kohelet (perek_id, teacher_id, part_id) VALUES (4, 1026, 4);
 INSERT INTO kohelet (perek_id, teacher_id, part_id) VALUES (5, 1026, 4);
