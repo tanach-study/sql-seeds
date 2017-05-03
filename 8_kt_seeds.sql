@@ -362,3 +362,18 @@ INSERT INTO kohelet (perek_id, teacher_id, part_id) VALUES (11, 1026, 4);
 INSERT INTO kohelet (perek_id, teacher_id, part_id) VALUES (12, 1026, 4);
 
 COMMIT;
+
+BEGIN;
+
+INSERT INTO esther (perek_id, teacher_id, part_id) VALUES (1, 1027, 4);
+INSERT INTO esther (perek_id, teacher_id, part_id) VALUES (2, 1027, 4);
+INSERT INTO esther (perek_id, teacher_id, part_id) VALUES (3, 1027, 4);
+INSERT INTO esther (perek_id, teacher_id, part_id) VALUES (4, 1027, 4);
+INSERT INTO esther (perek_id, teacher_id, part_id) VALUES (5, 1027, 4);
+INSERT INTO esther (perek_id, teacher_id, part_id) VALUES (6, 1027, 4);
+INSERT INTO esther (perek_id, teacher_id, part_id) VALUES (7, 1027, 4);
+INSERT INTO esther (perek_id, teacher_id, part_id) VALUES (8, 1027, 4);
+INSERT INTO esther (perek_id, teacher_id, part_id) VALUES (9, 1027, 4);
+INSERT INTO esther (perek_id, teacher_id, part_id) VALUES (10, 1027, 4);
+
+COMMIT;

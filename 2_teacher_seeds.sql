@@ -472,23 +472,23 @@ INSERT INTO teacher (
   'http://cdn.tanachstudy.com/assets/images/Mr_David_Cohen.jpg'
 );
 
--- INSERT INTO teacher (
---   teacher_id,
---   title,
---   fname,
---   lname,
---   short_bio,
---   long_bio,
---   image_url
--- ) VALUES (
---   1027,
---   'Rabbi',
---   'Richard',
---   'Tobias',
---   'Rabbi at Magen David Yeshiva',
---   'Rabbi Richard Tobias earned a BA psychology from Yeshiva University. Rabbinic ordination from the Sephardic Rabbinical College under the auspices of former chief rabbi of large, Ovadia Yosef. He earned a masters degree in educational leadership from Columbia University. Dean, Magen David Yeshiva High School. Assistant Rabbi, Congregation Beth Torah. Father of four, which is the hardest job of all.',
---   'http://cdn.tanachstudy.com/assets/images/Rabbi_Richard_Tobias.jpg'
--- );
+INSERT INTO teacher (
+  teacher_id,
+  title,
+  fname,
+  lname,
+  short_bio,
+  long_bio,
+  image_url
+) VALUES (
+  1027,
+  'Rabbi',
+  'Richard',
+  'Tobias',
+  'Rabbi at Magen David Yeshiva',
+  'Rabbi Richard Tobias earned a BA psychology from Yeshiva University. Rabbinic ordination from the Sephardic Rabbinical College under the auspices of former chief rabbi of large, Ovadia Yosef. He earned a masters degree in educational leadership from Columbia University. Dean, Magen David Yeshiva High School. Assistant Rabbi, Congregation Beth Torah. Father of four, which is the hardest job of all.',
+  'http://cdn.tanachstudy.com/assets/images/Rabbi_Richard_Tobias.jpg'
+);
 
 INSERT INTO teacher (
   teacher_id,
