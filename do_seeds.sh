@@ -1,7 +1,7 @@
 # Before we begin, we want to back up the database into a dump file:
 
 # In order to call this script from anywhere, we first get the full working directory:
-FULL_PATH=`pwd`
+FULL_PATH="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # Let's start by setting up the schema file:
 psql -d tstest -f "$FULL_PATH/ts_schema.sql"
