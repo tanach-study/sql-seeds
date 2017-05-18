@@ -377,3 +377,21 @@ INSERT INTO esther (perek_id, teacher_id, part_id) VALUES (9, 1027, 4);
 INSERT INTO esther (perek_id, teacher_id, part_id) VALUES (10, 1027, 4);
 
 COMMIT;
+
+BEGIN;
+
+INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (0, 1028, 4);
+INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (1, 1028, 4);
+INSERT INTO daniel (perek_id, teacher_id, part_id, is_many_parts, parts_breakdown) VALUES (2, 1028, 4, true, 'a,b');
+INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (3, 1028, 4);
+INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (4, 1028, 4);
+INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (5, 1028, 4);
+INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (6, 1028, 4);
+INSERT INTO daniel (perek_id, teacher_id, part_id, is_many_parts, parts_breakdown) VALUES (7, 1028, 4, true, 'a,b');
+INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (8, 1028, 4);
+INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (9, 1028, 4);
+INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (10, 1028, 4);
+INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (11, 1028, 4);
+INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (12, 1028, 4);
+
+COMMIT;
