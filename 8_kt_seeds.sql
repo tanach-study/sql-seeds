@@ -391,7 +391,7 @@ INSERT INTO daniel (perek_id, teacher_id, part_id, is_many_parts, parts_breakdow
 INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (8, 1028, 4);
 INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (9, 1028, 4);
 INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (10, 1028, 4);
-INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (11, 1028, 4);
+INSERT INTO daniel (perek_id, teacher_id, part_id, is_many_parts, parts_breakdown) VALUES (11, 1028, 4, true, 'a,b');
 INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (12, 1028, 4);
 
 COMMIT;
