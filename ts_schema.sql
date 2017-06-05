@@ -32,10 +32,13 @@ DROP TABLE IF EXISTS zecharia;
 DROP TABLE IF EXISTS malachi;
 DROP TABLE IF EXISTS divrehayamim1;
 DROP TABLE IF EXISTS divrehayamim2;
+DROP TABLE IF EXISTS "divre-hayamim-1";
+DROP TABLE IF EXISTS "divre-hayamim-2";
 DROP TABLE IF EXISTS tehillim;
 DROP TABLE IF EXISTS mishle;
 DROP TABLE IF EXISTS iyov;
 DROP TABLE IF EXISTS shirhashirim;
+DROP TABLE IF EXISTS "shir-hashirim";
 DROP TABLE IF EXISTS ruth;
 DROP TABLE IF EXISTS eichah;
 DROP TABLE IF EXISTS kohelet;
@@ -169,9 +172,9 @@ CREATE TABLE zecharia (LIKE book_template INCLUDING DEFAULTS);
 
 CREATE TABLE malachi (LIKE book_template INCLUDING DEFAULTS);
 
-CREATE TABLE divrehayamim1 (LIKE book_template INCLUDING DEFAULTS);
+CREATE TABLE "divre-hayamim-1" (LIKE book_template INCLUDING DEFAULTS);
 
-CREATE TABLE divrehayamim2 (LIKE book_template INCLUDING DEFAULTS);
+CREATE TABLE "divre-hayamim-2" (LIKE book_template INCLUDING DEFAULTS);
 
 CREATE TABLE tehillim (LIKE book_template INCLUDING DEFAULTS);
 
@@ -179,7 +182,7 @@ CREATE TABLE mishle (LIKE book_template INCLUDING DEFAULTS);
 
 CREATE TABLE iyov (LIKE book_template INCLUDING DEFAULTS);
 
-CREATE TABLE shirhashirim (LIKE book_template INCLUDING DEFAULTS);
+CREATE TABLE "shir-hashirim" (LIKE book_template INCLUDING DEFAULTS);
 
 CREATE TABLE ruth (LIKE book_template INCLUDING DEFAULTS);
 
