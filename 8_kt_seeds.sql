@@ -395,3 +395,18 @@ INSERT INTO daniel (perek_id, teacher_id, part_id, is_many_parts, parts_breakdow
 INSERT INTO daniel (perek_id, teacher_id, part_id) VALUES (12, 1028, 4);
 
 COMMIT;
+
+BEGIN;
+
+INSERT INTO ezra (perek_id, teacher_id, part_id) VALUES (1, 1029, 4);
+INSERT INTO ezra (perek_id, teacher_id, part_id) VALUES (2, 1029, 4);
+INSERT INTO ezra (perek_id, teacher_id, part_id) VALUES (3, 1029, 4);
+INSERT INTO ezra (perek_id, teacher_id, part_id) VALUES (4, 1029, 4);
+INSERT INTO ezra (perek_id, teacher_id, part_id) VALUES (5, 1029, 4);
+INSERT INTO ezra (perek_id, teacher_id, part_id) VALUES (6, 1029, 4);
+INSERT INTO ezra (perek_id, teacher_id, part_id) VALUES (7, 1029, 4);
+INSERT INTO ezra (perek_id, teacher_id, part_id) VALUES (8, 1029, 4);
+INSERT INTO ezra (perek_id, teacher_id, part_id) VALUES (9, 1029, 4);
+INSERT INTO ezra (perek_id, teacher_id, part_id) VALUES (10, 1029, 4);
+
+COMMIT;

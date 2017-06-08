@@ -508,23 +508,23 @@ INSERT INTO teacher (
   'http://cdn.tanachstudy.com/assets/images/Mrs_Gitta_Neufeld.jpg'
 );
 
--- INSERT INTO teacher (
---   teacher_id,
---   title,
---   fname,
---   lname,
---   short_bio,
---   long_bio,
---   image_url
--- ) VALUES (
---   1029,
---   'Rabbi',
---   'Avraham',
---   'Benhamu',
---   'Assistant Rabbi at Cong. Shaare Shalom, Rabbi at Yeshivah of Flatbush',
---   'Rabbi Avraham Benhamu was born in London and raised in Bogota, Colombia. He  studied in Israel at Yeshivat Birkat Moshe in Maale Adumim. Rabbi Benhamu graduated from Yeshiva University and then received Semicha from its affiliated Rabbi Isaac Elhanan Theological Seminary (RIETS). He then went on to receive his Master’s degree in Jewish History from the Graduate School for Jewish Studies (GSJS) at Touro College. Rabbi Benhamu has been a Judaic studies teacher in Yeshiva of Flatbush Middle Division for 21 years. He is currently the Chairman of Judaic Studies and Curriculum at the Yeshiva. Rabbi Benhamu runs Bnai Shaare Shalom Young Adult Minyan which hosts many exciting events throughout the year. He and his wife Margaret have five children.',
---   'http://cdn.tanachstudy.com/assets/images/Rabbi_Avraham_Benhamu.jpg'
--- );
+INSERT INTO teacher (
+  teacher_id,
+  title,
+  fname,
+  lname,
+  short_bio,
+  long_bio,
+  image_url
+) VALUES (
+  1029,
+  'Rabbi',
+  'Avraham',
+  'Benhamu',
+  'Assistant Rabbi at Cong. Shaare Shalom, Rabbi at Yeshivah of Flatbush',
+  'Rabbi Avraham Benhamu was born in London and raised in Bogota, Colombia. He  studied in Israel at Yeshivat Birkat Moshe in Maale Adumim. Rabbi Benhamu graduated from Yeshiva University and then received Semicha from its affiliated Rabbi Isaac Elhanan Theological Seminary (RIETS). He then went on to receive his Master’s degree in Jewish History from the Graduate School for Jewish Studies (GSJS) at Touro College. Rabbi Benhamu has been a Judaic studies teacher in Yeshiva of Flatbush Middle Division for 21 years. He is currently the Chairman of Judaic Studies and Curriculum at the Yeshiva. Rabbi Benhamu runs Bnai Shaare Shalom Young Adult Minyan which hosts many exciting events throughout the year. He and his wife Margaret have five children.',
+  'http://cdn.tanachstudy.com/assets/images/Rabbi_Avraham_Benhamu.jpg'
+);
 
 -- INSERT INTO teacher (
 --   teacher_id,
