@@ -143,7 +143,7 @@ INSERT INTO melachim1 (perek_id, teacher_id, part_id) VALUES (18, 1004, 1);
 INSERT INTO melachim1 (perek_id, teacher_id, part_id) VALUES (19, 1004, 1);
 INSERT INTO melachim1 (perek_id, teacher_id, part_id) VALUES (20, 1004, 1);
 INSERT INTO melachim1 (perek_id, teacher_id, part_id) VALUES (21, 1004, 1);
-INSERT INTO melachim1 (perek_id, teacher_id, part_id) VALUES (22, 1004, 1);
+INSERT INTO melachim1 (perek_id, teacher_id, part_id, is_many_parts, parts_breakdown) VALUES (22, 1004, 1, true, 'a,b');
 
 COMMIT;
 
@@ -171,7 +171,7 @@ INSERT INTO melachim2 (perek_id, teacher_id, part_id) VALUES (19, 1005, 1);
 INSERT INTO melachim2 (perek_id, teacher_id, part_id) VALUES (20, 1005, 1);
 INSERT INTO melachim2 (perek_id, teacher_id, part_id) VALUES (21, 1005, 1);
 INSERT INTO melachim2 (perek_id, teacher_id, part_id) VALUES (22, 1005, 1);
-INSERT INTO melachim2 (perek_id, teacher_id, part_id) VALUES (23, 1005, 1);
+INSERT INTO melachim2 (perek_id, teacher_id, part_id, is_many_parts, parts_breakdown) VALUES (23, 1005, 1, true, 'a,b');
 INSERT INTO melachim2 (perek_id, teacher_id, part_id) VALUES (24, 1005, 1);
 INSERT INTO melachim2 (perek_id, teacher_id, part_id) VALUES (25, 1005, 1);
 

@@ -410,3 +410,21 @@ INSERT INTO ezra (perek_id, teacher_id, part_id) VALUES (9, 1029, 4);
 INSERT INTO ezra (perek_id, teacher_id, part_id) VALUES (10, 1029, 4);
 
 COMMIT;
+
+BEGIN;
+
+INSERT INTO nehemya (perek_id, teacher_id, part_id) VALUES (1, 1009, 4);
+INSERT INTO nehemya (perek_id, teacher_id, part_id) VALUES (2, 1009, 4);
+INSERT INTO nehemya (perek_id, teacher_id, part_id) VALUES (3, 1009, 4);
+INSERT INTO nehemya (perek_id, teacher_id, part_id) VALUES (4, 1009, 4);
+INSERT INTO nehemya (perek_id, teacher_id, part_id) VALUES (5, 1009, 4);
+INSERT INTO nehemya (perek_id, teacher_id, part_id) VALUES (6, 1009, 4);
+INSERT INTO nehemya (perek_id, teacher_id, part_id) VALUES (7, 1009, 4);
+INSERT INTO nehemya (perek_id, teacher_id, part_id) VALUES (8, 1009, 4);
+INSERT INTO nehemya (perek_id, teacher_id, part_id) VALUES (9, 1009, 4);
+INSERT INTO nehemya (perek_id, teacher_id, part_id) VALUES (10, 1009, 4);
+INSERT INTO nehemya (perek_id, teacher_id, part_id) VALUES (11, 1009, 4);
+INSERT INTO nehemya (perek_id, teacher_id, part_id) VALUES (12, 1009, 4);
+INSERT INTO nehemya (perek_id, teacher_id, part_id) VALUES (13, 1009, 4);
+
+COMMIT;
